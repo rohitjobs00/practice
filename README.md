@@ -1,2 +1,2 @@
 # practice
-intervie practice
+interview practice
